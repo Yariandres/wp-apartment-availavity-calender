@@ -1,0 +1,28 @@
+.aac-calendar-container {
+  margin: 20px 0;
+}
+
+#aac-calendar {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.aac-legend {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.aac-legend-item {
+  display: flex;
+  align-items: center;
+  margin: 20px 16px 20px 0;
+}
+
+.aac-legend-color {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border-radius: 3px;
+}

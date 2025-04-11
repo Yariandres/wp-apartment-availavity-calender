@@ -1,0 +1,14 @@
+{
+    "name": "apartamentyolgi/apartment-availability-calendar",
+    "description": "WordPress plugin to display apartment availability from Google Calendar",
+    "type": "wordpress-plugin",
+    "require": {
+        "htmlburger/carbon-fields": "^3.3",
+        "google/apiclient": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "ApartmentAvailabilityCalendar\\": "src/"
+        }
+    }
+}
